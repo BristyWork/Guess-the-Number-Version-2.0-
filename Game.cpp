@@ -3,7 +3,8 @@
  * Автор: BristyWork
  * Лицензия: MIT
  * Версия: 2.0
- * Исправлены ошибки компиляции
+ * Цвета
+ * Сложность
  */
 #include <iostream>
 #include <cstdlib>
